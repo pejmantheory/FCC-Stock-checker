@@ -1,5 +1,6 @@
 # Stock Price Checker
 <img width="1012" alt="Screenshot 2023-06-17 at 6 20 56 AM" src="https://github.com/pejmantheory/FCC-Stock-checker/assets/81389644/f55f85d2-92e0-4e4a-891f-f2a87c870311">
+(https://4aa3-2601-601-a480-d3b0-6ce4-3128-a1a8-20b5.ngrok-free.app/)
 
 SET NODE_ENV to test without quotes and set DB to your MongoDB connection string
 Complete the project in routes/api.js or by creating a handler/controller
